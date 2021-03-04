@@ -1,6 +1,6 @@
 # iCoT
 
-iCoT is a Pythonista app for iOS designed to generate and forward CoT messages to FreeTAKServer. 
+iCoT is a Pythonista script for iOS designed to generate and forward CoT messages to [FreeTAKServer](https://github.com/FreeTAKTeam/FreeTakServer). 
 
 ## Requirements
 
@@ -35,12 +35,13 @@ When you're ready to start sending CoT messages, click the play button in the up
 
 ## Roadmap
 
-1. Improve error handling
-2. Test for background process timeouts
-3. Build a Shortcut integration to start and stop iCot
-4. Add argparse support for future feature additions
-5. ???
-6. Profit
+1. Improve install/configuration documentation
+2. Improve error handling
+3. Test for background process timeouts
+4. Build a Shortcut integration to start and stop iCot
+5. Add argparse support for future feature additions
+6. ???
+7. Profit
 
 ## Support
 
