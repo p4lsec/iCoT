@@ -23,6 +23,8 @@ Method 2:
 3.  Open Pythonista, Click External Files > Open > Folder
 4.  Select the iCoT folder
 
+If this doesn't work, just copy and paste the code over into a new folder in Pythonista.  Be sure you have iCoT.py and iCoT.conf in the same folder. 
+
 ## Configure
 
 Open iCoT.conf, and modify the fields as appropriate.  Be sure takip and takport and the IP address and port for your FreeTAKServer. 
