@@ -41,3 +41,7 @@ When you're ready to start sending CoT messages, click the play button in the up
 4. Add argparse support for future feature additions
 5. ???
 6. Profit
+
+## Support
+
+Follow me on [Twitter](https://twitter.com/p4lsec) and [LinkedIn](https://www.linkedin.com/in/p4lsec/)
